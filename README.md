@@ -55,7 +55,7 @@ After training, the agent was evaluated over 100 test episodes. The final averag
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/RL-Snake-Game.git](https://github.com/YOUR_USERNAME/RL-Snake-Game.git)
+    git clone [https://github.com/arsalankhd/RL-Snake-Game.git](https://github.com/arsalankhd/RL-Snake-Game.git)
     cd RL-Snake-Game
     ```
 
@@ -65,7 +65,7 @@ After training, the agent was evaluated over 100 test episodes. The final averag
     ```
 
 3.  **Run the Jupyter Notebook:**
-    Open and run the cells in `notebooks/MachineLearning_HW5.ipynb` to see the training process and results.
+    Open and run the cells in `notebooks/Snake_RL_Agent_Training.ipynb` to see the training process and results.
 
 ## Technologies Used
 - Python
