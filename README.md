@@ -40,14 +40,14 @@ The agent was trained for **20,000 episodes**. The learning parameters were set 
 
 The average reward per 500 episodes shows a clear positive trend, indicating that the agent successfully learned to improve its policy over time.
 
-`![Training Progress](images/training_progress.png)`
+![Training Progress](images/training_progress.png)
 
 
 ### Evaluation
 
 After training, the agent was evaluated over 100 test episodes. The final average reward during testing was **-12.66**. Although the score is negative, it shows a significant improvement over earlier stages, with the agent successfully avoiding catastrophic failures in most episodes.
 
-`![Testing Performance](images/testing_performance.png)`
+![Testing Performance](images/testing_performance.png)
 
 ---
 
